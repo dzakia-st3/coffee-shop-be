@@ -55,7 +55,7 @@ module.exports = {
                 if(err) {
                     reject({message: "error"})
                 } 
-                if (result.length == 0) {
+                if (result?.length == 0) {
                     reject({message: "id not found"})
                 }
                 const previousData = {

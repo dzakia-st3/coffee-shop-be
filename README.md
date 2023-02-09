@@ -36,7 +36,7 @@ some technology used in this project.
 [Postman](https://documenter.getpostman.com/view/21402214/2s83YfeL5T)
 
 ### Link Deploy
-<a>https://urchin-app-dga4h.ondigitalocean.app/</a> 
+<a>https://coffeeshop-api.vercel.app/</a> 
 <!-- GETTING STARTED -->
 
 ## Getting Started
